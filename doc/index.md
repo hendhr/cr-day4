@@ -10,5 +10,5 @@ documentation.
 some-feature.md
 another-feature.md
 apidocs/index
-docs/flower.md
+flower.md
 ```
